@@ -1,0 +1,52 @@
+a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 10px;
+}
+*{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sign-up{
+  margin-top: 30px;
+}
+.input-box{
+  margin: 10px;
+  padding: 5px 10px;
+  text-align: left;
+  border: none;
+  background-color: rgba(128, 128, 128, 0.378);
+  color: white;
+}
+::placeholder{
+  color: white;
+}
+.btn{
+
+    margin: 10px;
+    padding: 5px 10px;
+    text-align: left;
+    background-color: rgba(104, 208, 81, 0.675);
+    color: white;
+    border: none;
+  }
+
+nav {
+
+  margin: 0;
+  background-color: rgb(51, 149, 235);
+  padding: 20px 0px;
+  margin: auto;
+}
+.footer {
+  background-color: rgb(51, 149, 235);
+  color: white;
+  padding: 20px 10px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+width: 100%;
+  text-align: center;
+}
